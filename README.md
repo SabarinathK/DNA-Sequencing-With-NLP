@@ -1,4 +1,4 @@
-# DNA Sequencing With Machine Learning
+# DNA Sequencing With NLP
 
 ### What is DNA Sequencing?
 DNA sequencing is a laboratory technique used to determine the exact sequence of bases (A, C, G, and T) in a DNA molecule.DNA sequence information is important to scientists investigating the functions of genes. The technology of DNA sequencing was made faster and less expensive as a part of the Human Genome Project.
